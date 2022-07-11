@@ -1,0 +1,12 @@
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\bin\Debug\net6.0\HostBlocker.Library.deps.json
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\bin\Debug\net6.0\HostBlocker.Library.dll
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\bin\Debug\net6.0\HostBlocker.Library.pdb
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.csproj.AssemblyReference.cache
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.AssemblyInfoInputs.cache
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.AssemblyInfo.cs
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.csproj.CoreCompileInputs.cache
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.dll
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\refint\HostBlocker.Library.dll
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\HostBlocker.Library.pdb
+D:\Code\dotnet.base\HostBlocker\HostBlocker.Library\obj\Debug\net6.0\ref\HostBlocker.Library.dll

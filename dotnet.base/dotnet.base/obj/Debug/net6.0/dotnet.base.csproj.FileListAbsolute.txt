@@ -1,0 +1,15 @@
+D:\Code\dotnet.base\dotnet.base\dotnet.base\bin\Debug\net6.0\dotnet.base.exe
+D:\Code\dotnet.base\dotnet.base\dotnet.base\bin\Debug\net6.0\dotnet.base.deps.json
+D:\Code\dotnet.base\dotnet.base\dotnet.base\bin\Debug\net6.0\dotnet.base.runtimeconfig.json
+D:\Code\dotnet.base\dotnet.base\dotnet.base\bin\Debug\net6.0\dotnet.base.dll
+D:\Code\dotnet.base\dotnet.base\dotnet.base\bin\Debug\net6.0\dotnet.base.pdb
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.csproj.AssemblyReference.cache
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.AssemblyInfoInputs.cache
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.AssemblyInfo.cs
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.csproj.CoreCompileInputs.cache
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.dll
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\refint\dotnet.base.dll
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.pdb
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\dotnet.base.genruntimeconfig.cache
+D:\Code\dotnet.base\dotnet.base\dotnet.base\obj\Debug\net6.0\ref\dotnet.base.dll
