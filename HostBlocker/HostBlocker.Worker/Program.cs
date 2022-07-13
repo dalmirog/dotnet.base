@@ -3,15 +3,25 @@ using HostBlocker.Library;
 
 using Serilog;
 
+var configuration = new ConfigurationBuilder()
+  .AddJsonFile("appsettings.json")
+  .Build();
+
 Log.Logger = new LoggerConfiguration()
-    .WriteTo.Seq("http://localhost:5341")//should come from config file
-    .WriteTo.Console()
+    .ReadFrom.Configuration(configuration)    
     .CreateLogger();
 
 IHost host = Host.CreateDefaultBuilder(args)
-    .ConfigureServices(services =>
+    .ConfigureServices((hostContext,services) =>
     {
-        services.AddSingleton<IFileHandler, FileHandler>(x => new FileHandler("","")); //should come from config
+        IConfiguration config = hostContext.Configuration;
+        var options = new HostBlockerOptions(
+            hostFilePath: config.GetValue<string>("HOSTBLOCKER_HOSTFILEPATH"),
+            sitesFilePath: config.GetValue<string>("HOSTBLOCKER_SITESFILEPATH")
+        );
+
+        services.AddSingleton(options);
+        services.AddSingleton<IFileHandler, FileHandler>();
         services.AddSingleton<IHostBlockerRunner, HostBlockerRunner>();
         services.AddHostedService<Worker>();        
     })

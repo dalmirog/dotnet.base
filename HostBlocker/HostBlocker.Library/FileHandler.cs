@@ -11,10 +11,10 @@ namespace HostBlocker.Library
         private readonly string hostFilePath;
         private readonly string sitesFilePath;
 
-        public FileHandler(string hostFilePath, string sitesFilePath)
+        public FileHandler(HostBlockerOptions options)
         {
-            this.hostFilePath = hostFilePath;
-            this.sitesFilePath = sitesFilePath;
+            hostFilePath = options.HostFilePath;
+            sitesFilePath = options.SitesFilePath;
         }
         public IEnumerable<Site> GetSites()
         {
